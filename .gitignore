@@ -8,6 +8,5 @@
 # dependencies
 /node_modules
 .history
-Hope
-
+.gitignore
 
